@@ -42,4 +42,4 @@ ASCII characters. I have used the following characters in this project: [" ",
 
 [Examples are here](/example)
 
-#### Thank you to [@hello](#) for giving this idea
+#### Thank you to [@ezsnippat](https://www.youtube.com/@ezsnippat) for giving this idea
